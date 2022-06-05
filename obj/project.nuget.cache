@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kq1ukriBHVMxQjUxfpYFBCAUpfKNGFlP/uApBNhIxgqAGo9crBQMUbr1E+musk3XmGg0VpIreLS1Xjj+BG9clQ==",
+  "success": true,
+  "projectFilePath": "D:\\projekty_starz\\kalkulator-test\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Norbert\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Norbert\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Norbert\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Norbert\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
